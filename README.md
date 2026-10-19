@@ -1,4 +1,4 @@
-# 🐰💛 hiiii!!
+# ウナウナ
 
 <div align="center">
 
@@ -6,12 +6,12 @@
 
   ♡ i love **Usagi** from Chiikawa ♡
 
-  💻 coding my little heart out!
-
   🌼 learning, coding & being silly ✨
 
-  `Kotlin` ♡ `Java` ♡ `Figma`
+  `Kotlin` ♡ `Swift` ♡ `Python` ♡ `CSS`
 
-  🥚 ウラ！ヤハ！
+  ウラ！ヤハ！
+
+  ![Usagi](https://i.pinimg.com/originals/b7/8d/3c/b78d3cbc79a66e69977852decd818168.gif)
 
 </div>
