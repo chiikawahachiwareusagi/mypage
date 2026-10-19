@@ -2,9 +2,9 @@
 
 <div align="center">
 
-  ![Cute divider](https://capsule-render.vercel.app/api?type=soft&color=FFF0B3&height=100&section=header&text=Usagi%20Lover%20%F0%9F%90%B0&fontSize=30&fontColor=8B6F47)
+<img src="https://i.imgur.com/RbNHRXN.png" width="100" alt="Usagi" />
 
-  ♡ i love **Usagi** from Chiikawa ♡
+  <h2> Usagi Lover </h2>
 
   learning, coding & being dumb
 
