@@ -6,7 +6,7 @@
 
   ♡ i love **Usagi** from Chiikawa ♡
 
-  🌼 learning, coding & being silly ✨
+  learning, coding & being dumb
 
   `Kotlin` ♡ `Swift` ♡ `Python` ♡ `CSS`
 
